@@ -7,6 +7,12 @@ public class GitDemo {
 		System.out.println("Hello Guys!");
 		System.out.println("Hello Koushal!");
 		System.out.println("Hello Hitesh!");
+		koushal();
 	}
+	
+	public static void koushal() {
+		System.out.println("Hello Hitesh!");
+	}
+	
 
 }
